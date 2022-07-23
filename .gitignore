@@ -1,3 +1,5 @@
 target
 .idea
+eer_diagram.mwb
+eer_diagram.mwb.bak
 src/main/java/org/example/Configs.java
